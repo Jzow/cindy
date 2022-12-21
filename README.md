@@ -1,2 +1,3 @@
 # Cindy
-Use rust for site building tools
+
+My personal blog website
