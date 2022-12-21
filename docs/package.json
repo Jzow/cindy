@@ -1,0 +1,19 @@
+{
+  "name": "jameszow",
+  "version": "0.0.1",
+  "description": "my personal blog website",
+  "main": "index.js",
+  "authors": {
+    "name": "jameszow",
+    "email": "jameszow@163.com"
+  },
+  "repository": "https://github.com/Jzow/jameszow/jameszow",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}

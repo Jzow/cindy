@@ -19,4 +19,4 @@ Cargo.lock
 
 .npm
 
-website/node_modules/
+docs/node_modules/

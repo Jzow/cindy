@@ -1,7 +1,0 @@
-[workspace]
-members = [
-  "config",
-  "core",
-  "plugins",
-  "security",
-]
