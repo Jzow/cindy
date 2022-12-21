@@ -16,3 +16,7 @@ Cargo.lock
 
 #log
 *.log
+
+.npm
+
+website/node_modules/
