@@ -1,2 +1,2 @@
-# cindy
+# Cindy
 Used to build a personal blog site
