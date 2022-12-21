@@ -1,2 +1,2 @@
 # Cindy
-Use rust to create a personal blog site
+Use rust for site building tools
