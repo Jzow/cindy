@@ -1,2 +1,2 @@
 # Cindy
-Used to build a personal blog site
+Use rust to create a personal blog site
